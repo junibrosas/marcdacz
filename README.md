@@ -6,7 +6,7 @@
 <!--<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='250"'>-->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-# Hi there 👋 I'm Marc Dacanay
+# Hi 👋 I'm Marc
 
 Ambassador for 📣 Quality Engineering Best Practices, 🤖 Test Automation, 💡 Continuous Improvement and ☁️ Serverless Architecture
 
