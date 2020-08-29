@@ -11,7 +11,7 @@
 Ambassador for 📣 Quality Engineering Best Practices, 🤖 Test Automation, 💡 Continuous Improvement and ☁️ Serverless Architecture
 
 ### 🔭 Current Side Project
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcdacz&repo=data-driven-test)](https://github.com/marcdacz/data-driven-test)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marcdacz&repo=compare-pdf)](https://github.com/marcdacz/compare-pdf)
 
 ### 🏆 Github Status
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=marcdacz&show_icons=true&hide_border=true)
